@@ -8,3 +8,4 @@ Added new line for progress tracking
 Made slight improvement in README
 Updated file with small changes
 Added simple update for testing
+Improved readability of content
