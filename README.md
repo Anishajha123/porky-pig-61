@@ -9,3 +9,4 @@ Made slight improvement in README
 Updated file with small changes
 Added simple update for testing
 Improved readability of content
+Added minor update to file
