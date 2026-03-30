@@ -5,3 +5,4 @@ Made minor changes to project file
 Updated content for better clarity
 Improved basic documentation
 Added new line for progress tracking
+Made slight improvement in README
