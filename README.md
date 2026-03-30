@@ -20,3 +20,4 @@ Improved text formatting slightly
 Updated content with small tweak
 Added minor documentation change
 Made slight improvement in structure
+Updated README with new info
