@@ -13,3 +13,4 @@ Added minor update to file
 Made quick update in documentatio
 Added new entry in README
 Updated project notes section
+Made small correction in file
