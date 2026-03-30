@@ -15,3 +15,4 @@ Added new entry in README
 Updated project notes section
 Made small correction in file
 Added simple progress update
+Added simple progress update
